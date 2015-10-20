@@ -10,3 +10,5 @@ Events also provide a synchronization option, but in a way that a thread proceed
 User is expected to write a userMain(int, char**) function which has the same properties as the main() function, except that main() is reserved for the execution of th OS kernel emulator. It is created that way because this OS runs on a host 32bit Windows Operating System. 
 
 This porgram needs a 32bit Windows Operating System as it was written in Borland C++ 3.1(1992) designed for x86 architecture, and will not work otherwise. A sample user program is provided. 
+
+This project was completed in May 2015. 
